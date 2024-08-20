@@ -1,4 +1,4 @@
-![Screenshot from 2024-08-17 12-36-23](https://github.com/user-attachments/assets/30cd925e-4bb2-4f54-946f-d9984c640133)# VLSI-Common-Source-Amplifier-DesignFlow
+# VLSI-Common-Source-Amplifier-DesignFlow
 This project covers the complete design process for a common source amplifier, a key component in analog electronics. 
 
 **1. Schematic Design:**
