@@ -1,4 +1,4 @@
-# VLSI-Common-Source-Amplifier-DesignFlow
+![Screenshot from 2024-08-17 12-36-23](https://github.com/user-attachments/assets/30cd925e-4bb2-4f54-946f-d9984c640133)# VLSI-Common-Source-Amplifier-DesignFlow
 This project covers the complete design process for a common source amplifier, a key component in analog electronics. 
 
 **1. Schematic Design:**
@@ -30,6 +30,7 @@ This symbol facilitates the integration of the common source amplifier into larg
 The testbench setup for the common source amplifier includes:
 Pulse Source (VPULSE): Provides a time-varying signal to the amplifier's input for response testing.
 DC Voltage Source (VDC): Supplies a steady DC voltage connected to both VDD and VBIAS to power the amplifier and set the biasing conditions.
+
 Connections: The VPULSE source is connected to the amplifier's input pin. The VDC source is connected to VDD, VBIAS, and VSS to ensure proper operation and biasing of the circuit. The output pin of the amplifier is monitored to evaluate the amplifier’s performance.
 
 
@@ -85,4 +86,25 @@ The final plot combines the results of transient, DC, and AC analyses. It provid
 - **AC Response**: Illustrates how the amplifier performs with varying frequencies.
 
 This integrated view helps to evaluate the overall performance and behavior of the common source amplifier across various operating conditions.
+
+
+**Design Rule Check Verified**
+
+Performed a comprehensive Design Rule Check (DRC) for the common source amplifier layout and verified that all design rules were adhered to with no errors or violations reported.
+
+
+
+![Screenshot from 2024-08-17 12-36-23](https://github.com/user-attachments/assets/c99d7fbf-c5c8-4a81-8797-4e91323136f6)
+
+
+
+**Layout vs Schematic**
+
+Executed a detailed Layout vs. Schematic (LVS) verification for the common source amplifier and confirming full design integrity with no discrepancies between the layout and schematic.
+
+![Screenshot from 2024-08-17 12-37-10](https://github.com/user-attachments/assets/70e882ef-cc9a-4cfb-8cb2-7e0a2c429e18)
+
+
+
+![Screenshot from 2024-08-17 12-37-28](https://github.com/user-attachments/assets/94338561-7465-4211-a14c-c526777f839a)
 
