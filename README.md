@@ -42,7 +42,7 @@ This configuration allows for comprehensive simulation and testing of the amplif
 
 **4. Transient, DC and AC Analysis:**
 
-**Transient Response:**
+**4.1 Transient Response:**
 The transient analysis examines the behavior of the common source amplifier in response to time-varying input signals. This analysis provides insights into how the amplifier reacts dynamically.
 
 Transient Response Results:
@@ -52,7 +52,7 @@ Transient Response Results:
 
 The results show that when the input signal is high, the output signal is low, and when the input is low, the output is high. This behavior demonstrates that the common source amplifier functions as an inverting amplifier, where the output is the logical inversion of the input signal.
 
-**DC Response:**
+**4.2 DC Response:**
 The DC analysis evaluates the common source amplifier’s performance with a steady DC input, focusing on its static operating point.
 
 DC Response Results:
@@ -63,7 +63,7 @@ DC Response Results:
 
 The graph illustrates the DC operating characteristics of the amplifier. It shows how the output voltage varies with changes in the input DC voltage, providing insights into the amplifier's biasing and static behavior.
 
-**AC Response:**
+**4.3 AC Response:**
 The AC analysis investigates the frequency response of the common source amplifier, revealing how the amplifier performs with varying AC input signals.
 
 AC Response Results:
@@ -73,7 +73,7 @@ AC Response Results:
 
 The plot shows the amplifier's response across different frequencies. It provides insight into how the amplifier's output varies with frequency, helping to assess its performance characteristics.
 
-**Final Result**
+**4.4 Final Result**
 
 
 ![Screenshot from 2024-08-17 12-44-41](https://github.com/user-attachments/assets/2078b44d-a0dc-4e8c-b36c-d68d45705b37)
@@ -88,7 +88,7 @@ The final plot combines the results of transient, DC, and AC analyses. It provid
 This integrated view helps to evaluate the overall performance and behavior of the common source amplifier across various operating conditions.
 
 
-**Design Rule Check Verified**
+**5. Design Rule Check Verified**
 
 Performed a comprehensive Design Rule Check (DRC) for the common source amplifier layout and verified that all design rules were adhered to with no errors or violations reported.
 
@@ -98,7 +98,7 @@ Performed a comprehensive Design Rule Check (DRC) for the common source amplifie
 
 
 
-**Layout vs Schematic**
+**5.1 Layout vs Schematic**
 
 Executed a detailed Layout vs. Schematic (LVS) verification for the common source amplifier and confirming full design integrity with no discrepancies between the layout and schematic.
 
