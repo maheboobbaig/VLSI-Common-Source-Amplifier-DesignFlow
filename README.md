@@ -78,17 +78,6 @@ The plot shows the amplifier's response across different frequencies. It provide
 ![Screenshot from 2024-08-17 12-44-41](https://github.com/user-attachments/assets/2078b44d-a0dc-4e8c-b36c-d68d45705b37)
 
 
-Here’s a description for the final result section that summarizes transient, DC, and AC analysis:
-
----
-
-### 4. Transient, DC, and AC Analysis
-
-#### Final Result
-
-**Final Result:**
-
-![Final Result](https://github.com/user-attachments/assets/2078b44d-a0dc-4e8c-b36c-d68d45705b37)
 
 The final plot combines the results of transient, DC, and AC analyses. It provides a comprehensive view of the amplifier's performance across different analyses:
 - **Transient Response**: Shows how the amplifier responds to time-varying inputs.
