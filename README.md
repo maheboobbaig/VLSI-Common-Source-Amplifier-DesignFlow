@@ -1,5 +1,5 @@
 # VLSI-Common-Source-Amplifier-DesignFlow
-This project covers the complete design process for a common source amplifier, a key component in analog electronics. 
+This project covers the complete design process for a common source amplifier using Cadence virtuoso. 
 
 **1. Schematic Design:**
 The schematic design for the common source amplifier includes PMOS and NMOS transistors, with VDD connected to the drain of the PMOS transistor and VSS connected to the source of the NMOS transistor. The circuit also features VBIAS for transistor biasing, and input and output pins for signal connections. This schematic forms the basis for the amplifier’s operation and subsequent design stages.
